@@ -13,7 +13,7 @@ variables:
   major: '1'
   patch: '0'
 
-name:  $(TeamProject)_$(SourceBrancheName)_$(major).$(patch).$(Rev:r)
+name:  $(TeamProject)_$(SourceBranchName)_$(major).$(patch).$(Rev:r)
 
 steps:
 - task: DotNetCoreInstaller@0
