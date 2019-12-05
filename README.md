@@ -1,3 +1,4 @@
+[![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=space-game-web-333keke)](https://sonarcloud.io/dashboard?id=space-game-web-333keke)
 
 # Contributing
 
